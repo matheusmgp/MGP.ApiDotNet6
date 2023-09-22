@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N72qZTGh0XheU3honpmvp+fzn+8PK1YEyzwJK5kPeuumqfyjiIQR/qNR37xRwtF4uuAWMqm8mA44cQz9PoLzPg==",
+  "success": true,
+  "projectFilePath": "C:\\PROJETOS_DEV\\C#\\MGP.ApiDotNet6\\MGP.ApiDotNet6.Application\\MGP.ApiDotNet6.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

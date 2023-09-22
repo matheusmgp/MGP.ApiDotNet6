@@ -1,0 +1,15 @@
+C:\PROJETOS_DEV\C#\MGP.ApiDotNet6\MGP.ApiDotNet6.Application\bin\Debug\net6.0\MGP.ApiDotNet6.Application.deps.json
+C:\PROJETOS_DEV\C#\MGP.ApiDotNet6\MGP.ApiDotNet6.Application\bin\Debug\net6.0\MGP.ApiDotNet6.Application.dll
+C:\PROJETOS_DEV\C#\MGP.ApiDotNet6\MGP.ApiDotNet6.Application\bin\Debug\net6.0\MGP.ApiDotNet6.Application.pdb
+C:\PROJETOS_DEV\C#\MGP.ApiDotNet6\MGP.ApiDotNet6.Application\bin\Debug\net6.0\MGP.ApiDotNet6.Domain.dll
+C:\PROJETOS_DEV\C#\MGP.ApiDotNet6\MGP.ApiDotNet6.Application\bin\Debug\net6.0\MGP.ApiDotNet6.Domain.pdb
+C:\PROJETOS_DEV\C#\MGP.ApiDotNet6\MGP.ApiDotNet6.Application\obj\Debug\net6.0\MGP.ApiDotNet6.Application.csproj.AssemblyReference.cache
+C:\PROJETOS_DEV\C#\MGP.ApiDotNet6\MGP.ApiDotNet6.Application\obj\Debug\net6.0\MGP.ApiDotNet6.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS_DEV\C#\MGP.ApiDotNet6\MGP.ApiDotNet6.Application\obj\Debug\net6.0\MGP.ApiDotNet6.Application.AssemblyInfoInputs.cache
+C:\PROJETOS_DEV\C#\MGP.ApiDotNet6\MGP.ApiDotNet6.Application\obj\Debug\net6.0\MGP.ApiDotNet6.Application.AssemblyInfo.cs
+C:\PROJETOS_DEV\C#\MGP.ApiDotNet6\MGP.ApiDotNet6.Application\obj\Debug\net6.0\MGP.ApiDotNet6.Application.csproj.CoreCompileInputs.cache
+C:\PROJETOS_DEV\C#\MGP.ApiDotNet6\MGP.ApiDotNet6.Application\obj\Debug\net6.0\MGP.ApiDotNet6.Application.csproj.CopyComplete
+C:\PROJETOS_DEV\C#\MGP.ApiDotNet6\MGP.ApiDotNet6.Application\obj\Debug\net6.0\MGP.ApiDotNet6.Application.dll
+C:\PROJETOS_DEV\C#\MGP.ApiDotNet6\MGP.ApiDotNet6.Application\obj\Debug\net6.0\refint\MGP.ApiDotNet6.Application.dll
+C:\PROJETOS_DEV\C#\MGP.ApiDotNet6\MGP.ApiDotNet6.Application\obj\Debug\net6.0\MGP.ApiDotNet6.Application.pdb
+C:\PROJETOS_DEV\C#\MGP.ApiDotNet6\MGP.ApiDotNet6.Application\obj\Debug\net6.0\ref\MGP.ApiDotNet6.Application.dll

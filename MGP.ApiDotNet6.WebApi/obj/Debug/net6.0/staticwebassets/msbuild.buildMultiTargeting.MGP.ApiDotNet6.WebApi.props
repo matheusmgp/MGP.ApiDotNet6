@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MGP.ApiDotNet6.WebApi.props" />
+</Project>

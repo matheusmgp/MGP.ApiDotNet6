@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M26FC9iBrU8ru/ZwJIkJbNZW8VvIusXpFzBPrHc/BRI=",
+  "Source": "MGP.ApiDotNet6.WebApi",
+  "BasePath": "_content/MGP.ApiDotNet6.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
